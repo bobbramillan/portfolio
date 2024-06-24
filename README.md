@@ -7,7 +7,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code adapted from the JavaScript Mastery YouTube tutorial for NextJS website, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code adapted from the JavaScript Mastery YouTube tutorial for NextJS personal portfolio site, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 ## <a name="introduction">🤖 Introduction</a>
 
